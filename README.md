@@ -1,6 +1,6 @@
 # Movie_Appio_01
 
-DEMO::____ <a href="https://movie-appio.netlify.app">https://movie-appio.netlify.app/</a> ___
+DEMO::____ <a href="https://movie-appio.netlify.app" target="_blank">https://movie-appio.netlify.app/</a> ___
 
 
 # made with
