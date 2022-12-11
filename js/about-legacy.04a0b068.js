@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_app"]=self["webpackChunkvue_app"]||[]).push([[443],{2406:function(e,n,t){t.r(n),t.d(n,{default:function(){return p}});var u=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"about"})},l=[],s={components:{}},a=s,c=t(1001),r=(0,c.Z)(a,u,l,!1,null,null,null),p=r.exports}}]);
+//# sourceMappingURL=about-legacy.04a0b068.js.map

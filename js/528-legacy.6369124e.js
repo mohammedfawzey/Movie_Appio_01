@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_app"]=self["webpackChunkvue_app"]||[]).push([[528],{2528:function(e,n,t){t.r(n),t.d(n,{default:function(){return v}});var u=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("v-app",[t("v-main",[t("section",{attrs:{id:"Profile"}})])],1)},a=[],p={},r=p,i=t(1001),l=t(3453),s=t.n(l),c=t(7524),f=t(7877),o=(0,i.Z)(r,u,a,!1,null,"4788b2e1",null),v=o.exports;s()(o,{VApp:c.Z,VMain:f.Z})}}]);
+//# sourceMappingURL=528-legacy.6369124e.js.map
